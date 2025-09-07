@@ -3,5 +3,10 @@ facebook toO!
 # I developed beautiful color theme for youtube mobile application
 # I developed beautiful color theme for youtube mobile application
 ajlsdhfljk
+<<<<<<< HEAD
 dfdsafds
 dasfgdfg
+=======
+dfdsafdssf
+dasfgdfg
+>>>>>>> app
